@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/front-end-react-ia-agenda/static/css/main.f855e6bc.css",
-    "main.js": "/front-end-react-ia-agenda/static/js/main.32d3d6f5.js",
+    "main.js": "/front-end-react-ia-agenda/static/js/main.e102a7d0.js",
     "static/js/453.59b6b89a.chunk.js": "/front-end-react-ia-agenda/static/js/453.59b6b89a.chunk.js",
     "index.html": "/front-end-react-ia-agenda/index.html",
     "main.f855e6bc.css.map": "/front-end-react-ia-agenda/static/css/main.f855e6bc.css.map",
-    "main.32d3d6f5.js.map": "/front-end-react-ia-agenda/static/js/main.32d3d6f5.js.map",
+    "main.e102a7d0.js.map": "/front-end-react-ia-agenda/static/js/main.e102a7d0.js.map",
     "453.59b6b89a.chunk.js.map": "/front-end-react-ia-agenda/static/js/453.59b6b89a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.32d3d6f5.js"
+    "static/js/main.e102a7d0.js"
   ]
 }
